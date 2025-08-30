@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> aedc010f5457beb47e42f525ef9548a272775123
 import Ayush from "./Ayush";
 
 function App() {
